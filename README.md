@@ -25,3 +25,15 @@ it contains iron, which is found deficient in most women around the world. This 
 
 [mor about me](https://github.com/Kousalya531/assignment2-Dasari/blob/main/AboutMe.md)
 
+
+------------------------------------------------------------------------
+
+# Sports
+
+| Name   | Location   | Amount   |
+|--------|------------|----------|
+| Volley Ball   |Guntur   | $40   |
+| Basket Ball   | Vijayawada   | $20   |
+| Throw Ball   | Hyderabad   |$15  |
+
+------------------------------------------------------------------------
