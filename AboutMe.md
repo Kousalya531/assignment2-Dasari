@@ -8,4 +8,4 @@ I am very polite and friendly with the people
 I am good at cooking different dishes
 
 
-[My pc](https://github.com/Kousalya531/assignment2-Dasari/blob/main/Kousalya%20Dasari.jpg)
+[My imag](https://github.com/Kousalya531/assignment2-Dasari/blob/main/Kousalya%20Dasari.jpg)
