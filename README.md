@@ -18,3 +18,7 @@ it contains iron, which is found deficient in most women around the world. This 
    - after entering into the bypass take a immidate left and than immidate right
 
 ## Food items
+
+1. pani puri
+2. grilled chicken
+3. chipotle
