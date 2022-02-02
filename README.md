@@ -37,3 +37,9 @@ it contains iron, which is found deficient in most women around the world. This 
 | Throw Ball   | Hyderabad   |$15  |
 
 ------------------------------------------------------------------------
+
+# Quotes
+
+>The best thing about gaining knowledge is nobody can take it from you. Venkatest
+
+>Knowledge is divine. Brahma
